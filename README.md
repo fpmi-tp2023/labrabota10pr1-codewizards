@@ -1,4 +1,4 @@
-# Project Name: Hotel App
+# Project Name: Hotel Booking App
 ## Description:
 This project is a hotel booking system that allows users to search and book available rooms in various hotels. The system contains information about each hotel, its rooms, prices, and availability. The user can search for rooms by location, date, and price range, and book a room for a specified period.
 Installation:
